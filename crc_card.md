@@ -3,6 +3,8 @@
 ## SIMPLE CRC CARD
 ### Sistem Informasi Manajemen peminjaman buku siswa
 
+File implementasi crc card dalam bentuk source code ada [disini](https://github.com/ramakira/praxis-academyNew/tree/master/praxisday2).
+
 1. Student
    
    Responsibilities            
@@ -22,5 +24,3 @@
     Collaborator
     
     - Record
-    
-    
