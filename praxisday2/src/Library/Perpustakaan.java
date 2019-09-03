@@ -47,7 +47,7 @@ public class Perpustakaan {
         System.out.print("Grade Siswa : ");
         tempGrade = input.nextLine();
         
-        System.out.print("\nKode Buku : ");
+        System.out.print("\nNomor Buku : ");
         tempKodeBuku = input.nextInt();
         
         tempNamaBuku = input.nextLine();
