@@ -1,6 +1,6 @@
-# praxis-academyNew
+# praxis-academy
 
-## SIMPLE CRC CARD
+## Kasus Hari 2 ( CRC Card )
 ### Sistem Informasi Manajemen peminjaman buku siswa
 
 File implementasi crc card dalam bentuk source code ada [disini](https://github.com/ramakira/praxis-academyNew/tree/master/praxisday2).
