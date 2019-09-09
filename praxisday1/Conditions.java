@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package praxisday1;
+package conditions;
 
 import java.util.Scanner;
 
@@ -11,14 +11,14 @@ import java.util.Scanner;
  *
  * @author Akira
  */
-public class Praxisday1 {
+public class Conditions {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        String nama, status;
+        
+         String nama, status;
 
         Scanner input = new Scanner(System.in);
 
@@ -39,4 +39,6 @@ public class Praxisday1 {
 
         System.out.println("Selesai");
     }
+    
+    
 }
