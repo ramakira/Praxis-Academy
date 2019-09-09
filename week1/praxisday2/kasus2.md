@@ -3,7 +3,7 @@
 ## Kasus Hari 2 ( CRC Card )
 ### Sistem Informasi Manajemen peminjaman buku siswa
 
-File implementasi crc card dalam bentuk source code ada [disini](https://github.com/ramakira/praxis-academyNew/tree/master/praxisday2).
+File implementasi crc card dalam bentuk jar ada [disini](https://github.com/ramakira/praxis-academy/tree/master/week1/praxisday2/kasus%20day%202).
 
 1. Student
    
