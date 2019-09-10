@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-09-10T02:40:03" hostname="DESKTOP-VHCJ7V6" time="0.018">
+  <properties/>
+  <testcase name="testSetBook" classname="BookTest" time="0.003"/>
+  <testcase name="testSetBook" classname="BookTest" time="0.0"/>
+  <system-out><![CDATA[setBook
+setBook
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

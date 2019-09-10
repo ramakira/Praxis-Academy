@@ -1,0 +1,69 @@
+	setBook
+main
+8======================================================
+5               Input Cetak Bukti                   
+8======================================================
+Id Pelanggan  : main
+8======================================================
+5               Input Cetak Bukti                   
+8======================================================
+Id Pelanggan  : 	setBook
+setpengembalianBuku
+	pengembalianBuku
+
+cetakBuktiPeminjaman
+
+
+
+
+
+?=============================================================
+
+'                Struk Peminjaman Buku
+
+?=============================================================
+
+ID Siswa ; 0
+
+Nama Siswa : null
+
+Kelas Siswa : null
+
+Kode Buku : 0
+
+Nama Buku : null
+
+jenis Buku : null
+
+Kode Transaksi : 0
+	setBook
+	SetName
+	setName
+setId
+	getName
+getId
+
+getGrade
+	SetName
+	setName
+setId
+	getName
+getId
+
+getGrade
+setpengembalianBuku
+pengembalianBuku
+cetakBuktiPeminjaman
+
+
+?=============================================================
+'                Struk Peminjaman Buku
+?=============================================================
+ID Siswa ; 0
+Nama Siswa : null
+Kelas Siswa : null
+Kode Buku : 0
+Nama Buku : null
+jenis Buku : null
+Kode Transaksi : 0
+	setBook
